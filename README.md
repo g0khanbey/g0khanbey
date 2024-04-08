@@ -1,9 +1,9 @@
 ### Hi there 👋
-<a href="https://u8views.com/github/gkhanbey"><img src="https://u8views.com/api/v1/github/profiles/97981071/views/day-week-month-total-count.svg"></a>
-[![gokhanbey profile views](https://u8views.com/api/v1/github/profiles/97981071/views/day-week-month-total-count.svg)](https://u8views.com/github/gkhanbey)
+
 <!--
 **gkhanbey/Gkhanbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://u8views.com/github/gkhanbey"><img src="https://u8views.com/api/v1/github/profiles/97981071/views/day-week-month-total-count.svg"></a>
+[![gokhanbey profile views](https://u8views.com/api/v1/github/profiles/97981071/views/day-week-month-total-count.svg)](https://u8views.com/github/gkhanbey)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
