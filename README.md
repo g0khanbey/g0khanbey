@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://store.steampowered.com/app/2470240/Salt_Aquvarium_Fish_Simulator/">
-        <img src="https://raw.githubusercontent.com/gkhanbey/g0khanbey/main/Ads%C4%B1z%20Tasar%C4%B1m%20Kopyas%C4%B1.gif" />
+        <img src="https://raw.githubusercontent.com/g0khanbey/g0khanbey/main/Ads%C4%B1z%20Tasar%C4%B1m%20Kopyas%C4%B1.gif" />
     </a>
 
 
