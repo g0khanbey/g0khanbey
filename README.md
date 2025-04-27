@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️Languages-Frameworks-Tools⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,github,vscode,php,html,c#,unity" />
+    <img src="https://skillicons.dev/icons?i=python,github,vscode,php,html,c#,unity,react" />
 </div>
 
 
