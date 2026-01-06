@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <h2 align="center">👁️Profile Views Counter👁️</h2>
 
 <div align="center">
-    <a href="https://u8views.com/github/gkhanbey">
+    <a href="https://u8views.com/github/g0khanbey">
         <img src="https://u8views.com/api/v1/github/profiles/97981071/views/day-week-month-total-count.svg">
     </a>
 </div>
